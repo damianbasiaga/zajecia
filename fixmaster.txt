@@ -1,0 +1,2 @@
+przepis na naprawe brancha
+1. Usun plik fixmaster.txt
